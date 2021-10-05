@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fishsmaller
+- 👋 Hi, I’m @HanniAlkaz
 - 👀 I’m interested in cyber security and coding.
 - 🌱 I’m currently learning html and python.
 - 💞️ I’m looking to collaborate on a big cyber project.
